@@ -3,6 +3,7 @@
 
 ## Team
 - Developer: [Abdullah]
+- Developer: [Adham]
 
 ## Week 1 Plan
 - Write User Stories
