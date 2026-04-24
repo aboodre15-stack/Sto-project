@@ -1,6 +1,5 @@
 # Sto-project
 
-# E-Store Project
 
 ## Team
 - Developer: [Abdullah]
